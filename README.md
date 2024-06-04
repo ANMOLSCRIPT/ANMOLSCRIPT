@@ -1,13 +1,18 @@
+![logo](https://github.com/ANMOLSCRIPT/ANMOLSCRIPT/blob/main/My%20logo.jpg)
+
 <h1 align="center">Hi 👋, I'm ANMOL GARG</h1>
 <h3 align="center">A passionate coder and a proficient developer</h3>
-
 <img align="right"  al="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolscript&label=Profile%20views&color=0e75b6&style=flat" alt="anmolscript" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmolscript" alt="anmolscript" /></a> </p>
+- 🔭 I’m currently studying **Computer Science**
+
+- 🚀 I'm currently learning **App Development**
 
 - 📫 How to reach me **anmolgarginsights@gmail.com**
+
+- ⚡Fun Fact **I can cover the whole syllabus one night before exam📖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
