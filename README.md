@@ -1,5 +1,3 @@
-![logo](https://github.com/ANMOLSCRIPT/ANMOLSCRIPT/blob/main/My%20logo.jpg)
-
 <h1 align="center">Hi 👋, I'm ANMOL GARG</h1>
 <h3 align="center">A passionate coder and a proficient developer</h3>
 <img align="right"  al="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
