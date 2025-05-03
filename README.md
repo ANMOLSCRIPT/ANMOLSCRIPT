@@ -8,7 +8,7 @@
 
 - 🚀 I'm currently learning **App Development**
 
-- 📫 How to reach me **anmolgarginsights@gmail.com**
+- 📫 How to reach me **anmolarcade@gmail.com**
 
 - ⚡Fun Fact **I can cover the whole syllabus one night before exam📖**
 
